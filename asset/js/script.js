@@ -5,7 +5,7 @@ const portfolioData = {
     heroSocials: [
   { label: "LinkedIn", url: "https://www.linkedin.com/in/nakulbjain", icon: "fa-brands fa-linkedin" },
   { label: "GitHub", url: "https://github.com/Nakul-sanghvi195", icon: "fa-brands fa-github" },
-  { label: "CV", url: "assets/docs/Nakul_B_Jain_Resume.pdf", icon: "fa-solid fa-file-lines" }
+  { label: "CV", url: "assets/docs/nakulbjaincvf (1).pdf", icon: "fa-solid fa-file-lines" }
 ]
   ],
   skills: {
