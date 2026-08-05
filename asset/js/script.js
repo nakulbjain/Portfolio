@@ -2,9 +2,11 @@ const portfolioData = {
   name: "NAKUL B JAIN",
   bio: "I am a Computer Science engineering student driven by a deep passion to build something innovative, practically feasible solutions. Whether I am crafting clean, responsive user interfaces or designing reliable backend systems, I enjoy turning complex ideas into functional code. For me, coding isnt just about writing codeits a process of understanding problems and driving efficient solutions for it. With a strong foundation in core computer science principles and full-stack development, I enjoy solving real-world challenges, adapting to new technologies, and constantly improving my skills as a developer.",
   heroSocials: [
-    { label: "LinkedIn", url: "https://www.linkedin.com/in/nakulbjain", icon: "fa-brands fa-linkedin" },
-    { label: "GitHub", url: "https://github.com/Nakul-sanghvi195", icon: "fa-brands fa-github" },
-    { label: "CV", url: "https://drive.google.com/file/d/1YUGvWJBsLdqy6KR9l4wCjgUmBJRk1r0f/view?usp=sharing", icon: "fa-solid fa-file-lines" }
+    heroSocials: [
+  { label: "LinkedIn", url: "https://www.linkedin.com/in/nakulbjain", icon: "fa-brands fa-linkedin" },
+  { label: "GitHub", url: "https://github.com/Nakul-sanghvi195", icon: "fa-brands fa-github" },
+  { label: "CV", url: "assets/docs/Nakul_B_Jain_Resume.pdf", icon: "fa-solid fa-file-lines" }
+]
   ],
   skills: {
     "Languages": [
